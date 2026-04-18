@@ -37,21 +37,25 @@ Fiscal Quarter
 Total Revenue and Product Revenue tracking
 Year-to-Date (YTD) and Month-to-Date (MTD) calculations
 Actual vs Target comparison (Target = Product Revenue × 1.1)
+
 🔹 Customer Insights
 
 Customer Contribution % to total revenue
 Ranking of customers using dynamic Top N analysis
 Segmentation of Direct vs Indirect customers
+
 🔹 Product Performance
 
 Product ranking based on revenue
 Revenue classification (Small / Medium / Large)
 Category-level performance analysis
+
 🔹 Operational Metrics
 
 Average Due Days and Total Due Days
 On-time shipment %
 Order status tracking (Completed vs Overdue)
+
 🔹 Advanced Analysis
 
 Churn Analysis: Identified customers inactive in the current year
