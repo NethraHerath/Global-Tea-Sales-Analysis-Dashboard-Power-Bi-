@@ -2,11 +2,11 @@
 
 ## 📸 Dashboard Preview
 
-![Main Dashboard](Main Dashboard.jpg)
-![Revenue Analysis](Revenue Analysis.jpg)
-![Customer Insights](Customer Insights.jpg)
-![Product Performance](Product Performance.jpg)
-![Operational Matrics](Operational Matrics.jpg)
+![Main Dashboard](MainDashboard.jpg)
+![Revenue Analysis](RevenueAnalysis.jpg)
+![Customer Insights](CustomerInsights.jpg)
+![Product Performance](ProductPerformance.jpg)
+![Operational Matrics](OperationalMatrics.jpg)
 
 🚀 Overview
 
