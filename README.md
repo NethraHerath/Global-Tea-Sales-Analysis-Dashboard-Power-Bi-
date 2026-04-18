@@ -1,5 +1,13 @@
 📊 Global Tea Sales Analysis Dashboard (Power BI)
 
+## 📸 Dashboard Preview
+
+![Main Dashboard](Main Dashboard.jpg)
+![Revenue Analysis](Revenue Analysis.jpg)
+![Customer Insights](Customer Insights.jpg)
+![Product Performance](Product Performance.jpg)
+![Operational Matrics](Operational Matrics.jpg)
+
 🚀 Overview
 
 This project focuses on analyzing global tea sales data using Power BI to uncover meaningful business insights. The dashboard transforms raw transactional data into an interactive and decision-support tool, helping to understand revenue trends, customer behavior, product performance, and operational efficiency.
